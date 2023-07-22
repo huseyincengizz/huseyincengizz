@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://codepen.io/aloneman58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aloneman58" height="30" width="40" /></a>
 <a href="https://twitter.com/hcengiz93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hcengiz93" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/hüseyin-cengiz-5450a1255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hüseyin-cengiz-5450a1255" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/hüseyin-cengiz-5450a1255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hüseyin-cengiz-5450a1255" height="30" width="40" /></a>
 <a href="https://instagram.com/huseyincengizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huseyincengizz" height="30" width="40" /></a>
 <a href="https://dribbble.com/huseyincengizz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="huseyincengizz" height="30" width="40" /></a>
 </p>
